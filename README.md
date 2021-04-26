@@ -1,14 +1,16 @@
-Unvanquished soundtrack
-=======================
+Unvanquished soundtracks
+========================
 
 
 About
 -----
 
-This is a resource packages giving soundtrack to the [Unvanquished](https://unvanquished.net) game project.
+This is a resource package providing soundtracks to the [Unvanquished](https://unvanquished.net) game project.
+
+https://unvanquished.net/about/
 
 
 Credits
 -------
 
-- The [Unvanquished team](https://unvanquished.net/?page_id=336)
+- The [Unvanquished team](https://unvanquished.net/about/)
